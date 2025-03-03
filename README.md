@@ -1,3 +1,8 @@
+<h1>NOTE: I haven't tried this code in a while so I hope it still works. I think, I last tried it when Twitter became X, which is a while ago now, so some things with their API probably changed.</h1>
+
+
+
+
 Code that automates posting new text tweets randomly from a .txt file to your Twitter / X profile
 
 # INTRODUCTION
